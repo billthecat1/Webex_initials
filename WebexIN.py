@@ -1,6 +1,5 @@
 import tkinter as tk
 
-b_number = 66
 
 def increase():
     value = int(lbl_value['bg'][4:6])
